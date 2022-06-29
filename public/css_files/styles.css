@@ -1,0 +1,52 @@
+body{
+    background-image:url(https://cdn2.hubspot.net/hubfs/126348/AdobeStock_111988841.jpg);
+    color:white;
+    font-family:Helvetica;
+    padding:20px;
+
+}
+h1, h2, p {
+    text-align: center;
+    font-family:"Comic Sans MS";
+}
+#survey-form{
+    width:90%;
+    max-width: 700px;
+    background-color:#29274C;
+    margin-left: auto;
+    margin-right: auto;
+    padding:10px;
+    opacity:90%;
+    border-radius: 10px;
+}
+
+fieldset {
+    padding: 2rem 0;
+    border: none;
+}
+label{
+    display:block;
+    margin-bottom: -0.25rem;
+    margin-top: 0.5rem;
+}
+
+
+input,
+textarea,
+select{
+    margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+    border-radius: 5px;
+
+}
+input,
+textarea{
+    border: 1px solid #0a0a23;
+    color: #ffffff;
+}
+.inline {
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+}
