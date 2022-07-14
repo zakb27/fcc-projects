@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Odin-Projects/.idea/Odin-Projects.iml" filepath="$PROJECT_DIR$/../Odin-Projects/.idea/Odin-Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/fcc-projects.iml" filepath="$PROJECT_DIR$/.idea/fcc-projects.iml" />
     </modules>
   </component>
